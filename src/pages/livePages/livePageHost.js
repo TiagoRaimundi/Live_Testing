@@ -9,8 +9,8 @@ export default function LivePageHost(props) {
   return (
     <View style={{flex: 1}}>
       <ZegoUIKitPrebuiltLiveStreaming
-        appID={716281226}
-        appSign='780bb01b66109d1b914d3dc73c43922aede18bb553bd724162fc7c5fbe08646d'
+        appID={961511828}
+        appSign='fbf82ad64c08c495289156d5ed0636be6053559211ab27899b47fc4c93c58176'
         userID={randomUserID}
         userName={'user_'+randomUserID}
         liveID='testLiveID'
